@@ -1,7 +1,7 @@
 #-------------------------------------------------------------------------------
-# Name:        mresizer
+# Name:        resizer
 # Purpose:     resizing images to 700x525 resolution.
-# Images to resized are named n1,n2....n31
+# Images to be resized are named n1,n2....n31
 # Resized images are saved with names m1,m2....m31
 # Author:      @leopauly
 # Created:     19-06-2014
